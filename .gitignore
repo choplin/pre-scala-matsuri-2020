@@ -1,0 +1,11 @@
+.bloop/
+.cache/
+.metals/
+.vscode/
+dist/
+elm-stuff/
+node_modules
+metals.sbt
+
+/project/project
+/project/target
